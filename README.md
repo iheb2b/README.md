@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Iheb Jaouadi</h1>
 <h3 align="center">A cybersecurity student and a passionate graphic/frontend desinger</h3>
 
-- i'm currently working on **ecrypted chat room using pyhton**
+- i'm currently working on **ecrypted chat room using python**
 
 - 📫 How to reach me **iheb.jaoudi@tek-up.de**
 
