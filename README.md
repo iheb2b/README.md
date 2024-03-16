@@ -3,7 +3,7 @@
 
 - i'm currently working on **Threat Intelligence PDF Analysis Tool**
 
-- 📫 How to reach me **iheb.jaoudi@tek-up.de**
+- 📫 How to reach me **iheb.jaouadi@tek-up.de**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
