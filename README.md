@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Iheb Jaouadi</h1>
-<h3 align="center">A cybersecurity engineering student and a passionate graphic/frontend desinger</h3>
+<h3 align="center">A cybersecurity engeineer</h3>
 
 - i'm currently working on **Threat Intelligence PDF Analysis Tool**
 
