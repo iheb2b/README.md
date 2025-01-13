@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Iheb Jaouadi</h1>
 <h3 align="center">A cybersecurity engeineer</h3>
 
-- i'm currently working on **Threat Intelligence PDF Analysis Tool**
-
 - 📫 How to reach me **iheb.jaouadi@tek-up.de**
 
 <h3 align="left">Connect with me:</h3>
